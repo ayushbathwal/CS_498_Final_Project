@@ -1,0 +1,7 @@
+Please enter a valid number for max level: Please enter a valid number for max number of children: max_ch -> 3 max_lvl -> 6
+The graph has been populated and the total number of nodes = 361
+Please enter a valid number for starting node (it has to be between 1 and the above total # of nodes: Please enter a valid number for ending node (it has to be between 1 and the above total # of nodes: PUSH 15
+POP 7
+STACKS - 21699
+Everything else  - 337462
+Cycles for manual- 375787
